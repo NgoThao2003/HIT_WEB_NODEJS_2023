@@ -1,0 +1,13 @@
+.content{
+    background-color: rgb(247, 165, 207);
+    display: flex;
+    justify-content: center;
+}
+.add_product input{
+    border-radius: 10px;
+    margin: 10px;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    width: 90%;
+}
